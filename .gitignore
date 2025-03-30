@@ -12,3 +12,5 @@ venv/
 *.pyc
 tmp*/
 
+_course_resources/env_dev.sh
+
